@@ -1,0 +1,7 @@
+--- Starting Iris Experiment ---
+Converged early at epoch 2
+Final Weights: [0.18624345 0.26388244]
+Final Bias: -0.5000
+Train Accuracy: 100.00%
+Test Accuracy:  100.00%
+Saved plot to out/iris_decision_boundary.png

@@ -1,0 +1,12 @@
+
+--- Running Experiment: Baseline ---
+Input Shape: (28, 28)
+Test Accuracy: 98.09%
+
+--- Running Experiment: Cropped ---
+Input Shape: (8, 8)
+Test Accuracy: 86.39%
+
+--- Running Experiment: Permuted ---
+Input Shape: (28, 28)
+Test Accuracy: 97.92%
